@@ -28,9 +28,9 @@ namespace Flare_Sharp
         static void Main(string[] args)
         {
             //Dont.Be.A.Scumbag.And.Remove.This.Warn.warn();
-            Console.WriteLine("Flare# Client");
+            Console.WriteLine("Flare# Client v2");
             Console.WriteLine("Flare port to C#");
-            Console.WriteLine("Discord: https://discord.gg/Hz3Dxg8");
+            Console.WriteLine("Discord: https://discord.gg/ujmEj8");
 
             Process.Start("minecraft://");
 
@@ -82,7 +82,7 @@ namespace Flare_Sharp
             {
                 Console.WriteLine("Message: " + ex.Message);
                 Console.WriteLine("Stacktrace: " + ex.StackTrace);
-                MessageBox.Show("Flare crashed! Check the console for error details. Click 'Ok' to quit.");
+                MessageBox.Show("Flare V2 crashed! Check the console for error details. Click 'Ok' to quit.");
             }
         }
     }
