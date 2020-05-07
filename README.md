@@ -4,7 +4,6 @@
 # Flare Client
 ### **Flare Client is a C# External Utility for Minecraft Bedrock Edition (Previously written in C++) :sunglasses:** 
 ### **Why does V2 exist, we are just a few dudes who dont want Flare to die out so we are re making it.**
-### **We are to be clear not flare, and will never be**
 
 # V2 Developers
 ```
